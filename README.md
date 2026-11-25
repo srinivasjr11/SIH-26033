@@ -63,23 +63,10 @@ Main Features:
 
   
 ## Technical Approach
-Technology                          	Purpose
+1. Technologies to be Used
+The Farm2Market mobile application will be developed using React Native for cross-platform mobile application development, along with HTML, CSS and JavaScript for interface development where applicable. Python will be used for backend development and AI integration, while FastAPI will be used to develop backend APIs for communication between the mobile application and server. MySQL will manage and store user details, farmer information, product listings and order data. Machine Learning techniques will support future demand forecasting and intelligent agricultural recommendations. Google Maps API will provide location-based farmer discovery and delivery support. Finally, GitHub will be used for version control, source code management and team collaboration throughout the development process.
 
-React Native                       Mobile application development
 
-HTML, CSS, JavaScript              interface development where applicable
-
-python                             Backend and AI development
-
-FastAPI                            	Backend API     
-
-MySQL	                              Database management
-
-Machine Learning                   	Demand forecasting
-
-Google Maps API	                     Location and delivery support
-
-GitHub                              	Project management and version control
 ## Feasibility and Viability
 1. Analysis of the feasibility of the idea
 The proposed application is technically and economically feasible because it uses existing mobile development technologies and cloud-based services.
