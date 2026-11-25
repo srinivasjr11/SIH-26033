@@ -63,17 +63,23 @@ Main Features:
 
   
 ## Technical Approach
-1. Technologies to be used
-Technology	Purpose
-React Native	Mobile application development
-HTML, CSS, JavaScript	Interface development where applicable
-Python	Backend and AI development
-FastAPI	Backend API
-MySQL	Database management
-Machine Learning	Demand forecasting
-Google Maps API	Location and delivery support
-GitHub	Project management and version control
+Technology                          	Purpose
 
+React Native                       Mobile application development
+
+HTML, CSS, JavaScript              interface development where applicable
+
+python                             Backend and AI development
+
+FastAPI                            	Backend API     
+
+MySQL	                              Database management
+
+Machine Learning                   	Demand forecasting
+
+Google Maps API	                     Location and delivery support
+
+GitHub                              	Project management and version control
 ## Feasibility and Viability
 1. Analysis of the feasibility of the idea
 The proposed application is technically and economically feasible because it uses existing mobile development technologies and cloud-based services.
